@@ -1,0 +1,6 @@
+La tarea la realice en Visual Studio 2019
+
+1.-En la carpeta Proyecto se encuentra el Proyecto de Visual Studio 2019
+2.-Dentro de la carpeta proyecto se encuenta la carpeta U2_A5 se encuentra el Codigo fuento o programa fuente
+3.-Dentro de la carpeta Ejecutable se encuetra el archivo ejecutable llamado U2_A5_LR_CF.exe
+4.-Dentro de l carpeta Instalador se encuentra el instalador llamado setup
